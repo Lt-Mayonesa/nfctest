@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC test</string>
+    <string name="error_card_read">Error de lectura</string>
+</resources>
